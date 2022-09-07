@@ -7,7 +7,7 @@ import FeedItem from "./feed-item/FeedItem";
 import Loader from "../loader/Loader";
 import { ArrowPathIcon } from "@heroicons/react/24/outline";
 
-import Mementory from "../../../artifacts/contracts/Mementory.sol/Mementory.json";
+import Mementory from "../../contract/Mementory.json";
 
 import mementoryIcon from "../../assets/img/logo_icon.png";
 

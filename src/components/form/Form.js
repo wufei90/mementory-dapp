@@ -9,7 +9,7 @@ import {
   PlusCircleIcon,
 } from "@heroicons/react/24/outline";
 
-import Mementory from "../../../artifacts/contracts/Mementory.sol/Mementory.json";
+import Mementory from "../../contract/Mementory.json";
 
 let ipfs;
 const authorization =

@@ -6,7 +6,7 @@ import Loader from "../components/loader/Loader";
 import Image from "next/image";
 import { useAccount, useContractRead } from "wagmi";
 
-import Mementory from "../../artifacts/contracts/Mementory.sol/Mementory.json";
+import Mementory from "../contract/Mementory.json";
 
 import mementoryIcon from "../assets/img/logo_icon.png";
 

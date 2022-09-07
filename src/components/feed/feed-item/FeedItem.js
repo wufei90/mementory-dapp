@@ -14,7 +14,7 @@ import Divider from "@mui/material/Divider";
 import LinkIcon from "@mui/icons-material/Link";
 import CloseIcon from "@mui/icons-material/Close";
 
-import Mementory from "../../../../artifacts/contracts/Mementory.sol/Mementory.json";
+import Mementory from "../../../contract/Mementory.json";
 
 export default function FeedItem(props) {
   const { item, isOwner } = props;

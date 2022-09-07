@@ -7,7 +7,7 @@ import Album from "../components/album/Album";
 import Loader from "../components/loader/Loader";
 import { useAccount, useContractRead } from "wagmi";
 
-import Mementory from "../../artifacts/contracts/Mementory.sol/Mementory.json";
+import Mementory from "../contract/Mementory.json";
 
 export default function Custom404() {
   const router = useRouter();
