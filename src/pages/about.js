@@ -5,7 +5,7 @@ import axp3Logo from "../assets/img/logo_axp3_big.png";
 
 export default function About() {
   const onClick = (e) => {
-    window.location.href = "mailto:contact@axplabs.com";
+    window.location.href = "mailto:hello@axp3.studio";
     e.preventDefault();
   };
 
